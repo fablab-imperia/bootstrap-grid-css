@@ -5,13 +5,8 @@
  * Credits: Twitter, Inc. & The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
  */
 
-@at-root {
-  @-ms-viewport { width: device-width; } // stylelint-disable-line at-rule-no-vendor-prefix
-}
-
 html {
   box-sizing: border-box;
-  -ms-overflow-style: scrollbar;
 }
 
 *,
